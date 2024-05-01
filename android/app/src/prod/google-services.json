@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594837441535",
+    "project_id": "kelas-digital-prod",
+    "storage_bucket": "kelas-digital-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594837441535:android:b3de0826e423c3721cf5ca",
+        "android_client_info": {
+          "package_name": "id.kelasdigital.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594837441535-3valknrb8i322aibqb97s06n36ppndqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkMXjhoGUJ67rK4DEIJhPdtiIQA9l-FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594837441535-3valknrb8i322aibqb97s06n36ppndqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

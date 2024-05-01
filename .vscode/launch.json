@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "[DEV] Kelas Digital",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "dev",
+                "-t",
+                "lib/app/config/flavors/main_dev.dart"
+            ]
+        },
+        {
+            "name": "[STG] Kelas Digital",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "stg",
+                "-t",
+                "lib/app/config/flavors/main_stg.dart"
+            ]
+        },
+        {
+            "name": "Kelas Digital",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--flavor",
+                "prod",
+                "-t",
+                "lib/app/config/flavors/main_prod.dart"
+            ]
+        },
+
+    ]
+}

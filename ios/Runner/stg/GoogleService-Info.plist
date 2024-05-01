@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1006626702423-2e07ig3vlp5vmohjsod5avdrhla8u8fr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1006626702423-2e07ig3vlp5vmohjsod5avdrhla8u8fr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFMHxQWO8hhwMRp_2qhtecv12JNtEpwh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1006626702423</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>id.kelasdigital.lite.stg</string>
+	<key>PROJECT_ID</key>
+	<string>kelas-digital-stg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kelas-digital-stg.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1006626702423:ios:e660e6556a16f0afaa0f12</string>
+</dict>
+</plist>

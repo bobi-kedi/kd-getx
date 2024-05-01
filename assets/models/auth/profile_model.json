@@ -1,0 +1,71 @@
+{
+  "profile": {
+      "user": {
+        "id": "119",
+        "email": "mobile.lecturer@kedi.com",
+        "fullName": "Mobile Lecture",
+        "phone": "+628889999",
+        "gender": "Laki-laki",
+        "isVerifiedAccount": true,
+        "uuid": "63414635-5164-4aef-8c9d-cd10b23d24f4",
+        "username": "Mobile_Lectu_69",
+        "linkedWithGoogle": true,
+        "googleEmail": "andiniaaf@gmail.com"
+      },
+      "basicInformationProfile": {
+        "address": "Kp Nyalindung ds",
+        "city": "Cianjur",
+        "placeOfBirth": "15 Desember",
+        "dateOfBirth": "2022-01-26T00:00:00.000Z",
+        "passportNo": "20002222",
+        "photo": "https://storage.googleapis.com/kedi_storage_dev/PROFILE_PICTURE/profile-picture_1652426996.jpg",
+        "residentNo": "dkkemdks kdsmds",
+        "userType": {
+          "createdDate": "2021-12-29T06:33:30.000Z",
+          "userType": "2",
+          "description": "LECTURER",
+          "modifiedDate": "2021-12-29T06:33:30.000Z",
+          "deletedAt": "2021-12-29T06:33:30.000Z"
+        }
+      },
+      "advanceInformationProfile": {
+        "lecturer": {
+          "informationId": "12",
+          "lecturerNo": "1234567",
+          "academicDegree1": null,
+          "academicDegree2": null,
+          "university": "Universitas Indonesia",
+          "programStudy": "program dev 2"
+        },
+        "student": {
+          "informationId": "11",
+          "studentNo": "121212",
+          "university": "Univ",
+          "faculty": {
+            "createdDate": "2021-12-30T05:56:55.000Z",
+            "id": "2",
+            "name": "Kedokteran",
+            "migrationId": null,
+            "modifiedDate": "2021-12-30T06:03:25.000Z",
+            "deletedAt": null
+          },
+          "studyProgram": {
+            "createdDate": "2021-12-29T23:32:05.000Z",
+            "id": "1",
+            "name": "Teknik Informatika",
+            "migrationId": null,
+            "modifiedDate": "2022-05-26T19:55:16.513Z",
+            "deletedAt": null
+          },
+          "program": {
+            "createdDate": "2021-12-29T22:09:54.000Z",
+            "id": 1,
+            "name": "D2",
+            "migrationId": "F",
+            "modifiedDate": "2022-05-26T20:06:39.044Z",
+            "deletedAt": null
+          }
+        }
+      }
+    }
+}

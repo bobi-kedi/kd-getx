@@ -1,0 +1,45 @@
+flavors:
+  dev:
+    app:
+      name: "[DEV] Kelas Digital"
+
+    android:
+      applicationId: "id.kelasdigital.lite.dev"
+      icon: "assets/images/logos/ic_circle_dev.png"
+      firebase:
+        config: ".firebase/dev/google-services.json"
+    ios:
+      bundleId: "id.kelasdigital.lite.dev"
+      icon: "assets/images/logos/ic_dev.png"
+      firebase:
+        config: ".firebase/dev/GoogleService-Info.plist"
+
+  stg:
+    app:
+      name: "[STG] Kelas Digital"
+
+    android:
+      applicationId: "id.kelasdigital.lite.stg"
+      icon: "assets/images/logos/ic_circle_stg.png"
+      firebase:
+        config: ".firebase/stg/google-services.json"
+    ios:
+      bundleId: "id.kelasdigital.lite.stg"
+      icon: "assets/images/logos/ic_stg.png"
+      firebase:
+        config: ".firebase/stg/GoogleService-Info.plist"
+
+  prod:
+    app:
+      name: "Kelas Digital"
+
+    android:
+      applicationId: "id.kelasdigital.lite"
+      icon: "assets/images/logos/ic_circle.png"
+      firebase:
+        config: ".firebase/prod/google-services.json"
+    ios:
+      bundleId: "id.kelasdigital.lite"
+      icon: "assets/images/logos/ic_bg.png"
+      firebase:
+        config: ".firebase/prod/GoogleService-Info.plist"

@@ -1,0 +1,12 @@
+{
+    "sign_in": "Sign in",
+    "sign_in_fb": "Sign in with Facebook",
+    "sign_in_google": "Sign in with Google",
+    "sign_in_apple": "Sign in with Apple",
+    "select_language" : "Select Language",
+    "onboard1" : "Users can continue to access various new learning materials digitally, even when they no longer have student status.",
+    "onboard2" : "Become a forum for sharing knowledge, organizing conferences and sending messages to each other",
+    "onboard3" : "Kelas Digital can be a medium for various parties to collaborate, especially teaching staff and students around the world",
+    "next" : "Next", 
+    "skip" : "Skip"
+}

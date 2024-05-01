@@ -1,0 +1,12 @@
+{
+    "login": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMCIsImVtYWlsIjoibW9iaWxlLnN0dWRlbnRAa2VkaS5jb20iLCJmdWxsTmFtZSI6Ik1vYmlsZSBTdHVkZW50cyIsInBob25lIjoiKzYyODMyOTgzOTQyMiIsImlzVmVyaWZpZWRBY2NvdW50IjpmYWxzZSwicHJvdmlkZXIiOiJsb2NhbCIsInV1aWQiOiI5N2EwNDUyMi03YjA5LTQzZmYtOThiYy04OGY1MGIyY2FlMzMiLCJ1c2VybmFtZSI6Ik1vYmlsZV9TdHVkZTczMCIsImxpbmtlZFdpdGhHb29nbGUiOmZhbHNlLCJpYXQiOjE3MDcyMzEyNzMsImV4cCI6MTcwNzMxNzY3M30.rjIG1bCZGIt2NOEnCNxl-SpSEB_FUXbW5FgPb1gXmTg",
+        "is_registered": true,
+        "email": "mobile.student@kedi.com",
+        "phoneNumber": "+628329839422",
+        "provider": "local",
+        "username": "Mobile_Stude730",
+        "linkedWithGoogle": false,
+        "isOtpVerified": true
+      }
+}
